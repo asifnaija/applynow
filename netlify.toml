@@ -1,0 +1,5 @@
+# Netlify configuration for SPA with HashRouter
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
